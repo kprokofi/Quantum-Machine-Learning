@@ -4,6 +4,8 @@ Project for HSE on the QML topic
 ## Task
 1) Binary classification: Autism recognition (The task is to recognized autism by the given photo of a child)
 
+To download dataset: https://www.kaggle.com/cihan063/autism-image-data
+
 2) Multiclass digit recogntion with quantum preprocessing
 
 ## Quantum layer
